@@ -1,3 +1,5 @@
+Moved to https://github.com/barneyonline/ha-groq
+
 # Groq TTS Custom Component for Home Assistant
 
 The Groq TTS component for Home Assistant makes it possible to use the Groq API to generate spoken audio from text. This can be used in automations, assistants, scripts, or any other component that supports TTS within Home Assistant. 
